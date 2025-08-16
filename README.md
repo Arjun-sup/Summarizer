@@ -5,8 +5,8 @@ An AI-powered desktop application that automatically extracts text from PDF file
 ##  Features
 - Extracts text from PDFs
 - Summarizes using:
-  - **Offline LSTM/BART Model** (local PyTorch)
-  - **Online Hugging Face API** (requires API key)
+  - **Offline LSTM/BART Model** (local PyTorch)(Work in Progress)
+  - **Online Google API** (requires API key)
 - Generates summarized PDF output
 - Simple Tkinter-based GUI
 
